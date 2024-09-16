@@ -13,7 +13,7 @@ authors:
     equal-contrib: true
   - name: Arfon M. Smith
     orcid: 0000-0002-3957-2474
-    affiliation: [1, 3]
+    affiliation: [1, 3 ]
     equal-contrib: true
 affiliations:
   - index: 1
